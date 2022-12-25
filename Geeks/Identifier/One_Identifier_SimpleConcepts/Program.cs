@@ -3,7 +3,7 @@ class Name
 {
     /// <summary>
     /// Identifiers in this language is class name ,method name and variable name 
-    /// 
+    ///
     /// </summary>
     /// <param name="args"></param>
     static void Main(string[] args)
